@@ -43,7 +43,9 @@ AFRwsPU.WlNfklkua+=26;
 
 
 Donations:
+
 Bitcoin: 179CTXUVJjirnyYjQazHWb1YvkJN3XE815
+
 Paypal: thecruzwtf@gmail.com
 
 Created by CruZ
